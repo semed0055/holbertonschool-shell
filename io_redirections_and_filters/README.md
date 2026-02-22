@@ -6,3 +6,4 @@
 6-third_line: Displays the third line of the file iacta.
 7-file: Creates a file with a very complex name containing 'Best School'.
 7-file: creates a file named exactly \*\\'"Best School"\\'\*$\?\*\*\*\*\*:) containing the text Best School
+7-file: Creates a file with a very complex name containing 'Best School'.
